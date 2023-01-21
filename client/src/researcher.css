@@ -1,0 +1,27 @@
+#researcher-div {
+    border: 1px solid black;
+    text-align: center;
+    padding:10px;
+    display: flex;
+    justify-content: center;  
+}
+
+#researcher-div input {
+    margin:5px;
+    
+}
+
+.researcher-div-container{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.researcher-btn {
+    width: 50%;
+    
+}
+
+#researcher-btn-div {
+    display: flex;
+}

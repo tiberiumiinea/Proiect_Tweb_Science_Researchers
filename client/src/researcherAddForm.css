@@ -1,0 +1,12 @@
+#container {
+    text-align: center;
+    padding: 10px;
+}
+
+#container div {
+    margin:10px;
+}
+
+input {
+    padding:5px;
+}
